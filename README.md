@@ -5,6 +5,6 @@
 ### How to install?
 `pip install serval.fix`
 ### What is the Improvement that this library offers?
-`Minor problems, and improvement for its use in hosting and/or faster use.`
+`Minor issues, and improvement for efficient use and/or faster use.`
 ### API Reference
 [Read the Docs Link](https://aminopy.readthedocs.io/en/latest/)
